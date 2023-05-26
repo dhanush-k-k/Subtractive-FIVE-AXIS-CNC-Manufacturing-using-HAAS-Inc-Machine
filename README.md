@@ -9,10 +9,10 @@
 * HAAS UMC Simulation using CUTRIGHT PRO and developing a robust machining methods and provide calculations for Tool Selections
 
 ## _Development_
-* Tool: SIEMENS NX 2022
-        SOLIDWORKS 2022
-        CUTRIGHT PRO
-        SIEMENS NX CAM Post Processor
+* Tool: SIEMENS NX 2022\
+        SOLIDWORKS 2022\
+        CUTRIGHT PRO\
+        SIEMENS NX CAM Post Processor\
 
 ## _Specifications_
 Machine: Haas UMC 750 vertical 5-axis CNC machining center\
