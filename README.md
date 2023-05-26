@@ -4,7 +4,7 @@
 Dhanush Kumar, Abhinav
 
 ## _Objective_
-NC Part Programming, NC Simulation and Verification of Part with stiffners, webs, fillets and closed angle corners. \ 
+NC Part Programming, NC Simulation and Verification of Part with stiffners, webs, fillets and closed angle corners.\ 
 HAAS UMC Simulation using CUTRIGHT PRO and developing a robust machining methods and provide calculations for Tool Selections
 
 ## _Development_
@@ -22,7 +22,7 @@ Final Tolerance Achieved : +/- 0.001"
 
 ## _Procedure to Run_
 The project requires to create a blank of dimensions specified above and choose the approriate HAAS Machine inside Cutright.\ 
-The Workholding must be downloaded from 5th Axis Holding and the toolpath must be attached. Once this is done, tool work holders can be assigned as 1,2 and 3, the details for which can be found by extracting the model inside the 'ModelWithOperations Folder'. \
+The Workholding must be downloaded from 5th Axis Holding and the toolpath must be attached. Once this is done, tool work holders can be assigned as 1,2 and 3, the details for which can be found by extracting the model inside the 'ModelWithOperations Folder'.\
 This is enough to begin the simulation and verification inside CUTRIGHT PRO. 
 
 ## _Results/Discussions_
